@@ -1,0 +1,40 @@
+!SESSION 2017-02-28 17:40:58.121 -----------------------------------------------
+eclipse.buildId=3.6.1.201410201044
+java.version=1.8.0_121
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=es_ES
+Command-line arguments:  -os win32 -ws win32 -arch x86
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-02-28 17:41:12.716
+!MESSAGE No repository found at file:/C:/Users/AlumnoT/Desktop/328-twitter-bootstrap-basics-master/store-after/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-02-28 17:41:15.403
+!MESSAGE No repository found at file:/C:/Users/AlumnoT/Desktop/328-twitter-bootstrap-basics-master/.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error parsing metadata repository
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 994, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 1046, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 2287, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 2491, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 3349, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 4910, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 6067, column 62: Missing required attribute in "property": value
+!SUBENTRY 1 org.eclipse.equinox.p2.core 2 0 2017-02-28 17:41:16.950
+!MESSAGE Error in file:/C:/Users/AlumnoT/AppData/Roaming/Appcelerator/Aptana Studio/p2/org.eclipse.equinox.p2.repository/cache/content-1984956758.jar at line 6701, column 62: Missing required attribute in "property": value
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2017-02-28 17:41:26.404
+!MESSAGE No repository found at https://github.com/berkayunal/twitter-bootstrap.ruble.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2017-02-28 17:41:51.437
+!MESSAGE No .vrapperrc or _vrapperrc found.
+
+!ENTRY net.sourceforge.vrapper.eclipse 1 0 2017-02-28 17:41:57.359
+!MESSAGE No .vrapperrc or _vrapperrc found.
